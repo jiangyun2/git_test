@@ -7,5 +7,5 @@ print("helloworld")
 
 print("123")
 print("初始化")
-
+print("初始化")
 
